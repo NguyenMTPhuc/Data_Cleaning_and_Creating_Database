@@ -6,3 +6,8 @@ This project focuses on cleaning and structuring a dataset derived from the Metr
 2. Create a structured database that allows for efficient analysis and retrieval of information about the museum's collection, such as names of artworks, artists, artworks' date and more.
 
 The dataset is avaliable at https://github.com/metmuseum/openaccess
+
+# Data Cleaning Process
+
+
+# Creating Database Process
